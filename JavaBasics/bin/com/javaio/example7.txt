@@ -1,0 +1,2 @@
+Java microservices are a set of small, independent parts of the software application written in Java. 
+Microservice is an architectural design for building software applications to obtain scalability, flexibility, and resiliency.

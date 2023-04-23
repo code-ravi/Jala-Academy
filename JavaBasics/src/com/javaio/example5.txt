@@ -1,0 +1,2 @@
+Hibernate reduces lines of code by maintaining object-table mapping itself and returns result to application in form of Java objects. 
+It relieves programmer from manual handling of persistent data, hence reducing the development time and maintenance cost.
